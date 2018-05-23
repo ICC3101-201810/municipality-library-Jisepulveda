@@ -1,0 +1,1 @@
+El error se encuentra en que Person es dependiente de Address al igual que Address con Person, por lo cual ninguno de los dos se podria crear sin tener el otro.
